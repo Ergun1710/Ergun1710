@@ -1,9 +1,9 @@
 
 <h3> 🌐 &nbsp;Social Media</h3>
 
-[![GitHub](Icons/github.png)](https://github.com/lutfiergunsen)
-[![LinkedIn](Icons/linkedin.png)](https://www.linkedin.com/in/ergunsen/)
-[![Instagram](Icons/instagram.png)](https://www.instagram.com/ergunsen17/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lutfiergunsen)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ergunsen/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ergunsen17/)
 <p align="center">
 <a href="https://profile.intra.42.fr/users/ersen"><img width="48%" src="https://badge42.vercel.app/api/v2/cl1lkdqj3000609l1klzziqu1/stats?cursusId=9&coalitionId=233" alt="ersen's 42 stats"/></a>
    <a href="https://profile.intra.42.fr/users/ersen"><img width="48%" src="https://badge42.vercel.app/api/v2/cl1lkdqj3000609l1klzziqu1/stats?cursusId=21&coalitionId=233" alt="ersen's 42 stats" /></a>
@@ -38,5 +38,4 @@
 | CPP Module 00| [![ersen's 42 CPP Module 00 Score](https://badge42.vercel.app/api/v2/cl8t4qn9j00060gl6lxit70h1/project/2993873)](https://github.com/lutfiergunsen)|
 | CPP Module 01| [![ersen's 42 CPP Module 01 Score](https://badge42.vercel.app/api/v2/cl8t4qn9j00060gl6lxit70h1/project/3089227)](https://github.com/lutfiergunsen)|
 | CPP Module 02| [![ersen's 42 CPP Module 02 Score](https://badge42.vercel.app/api/v2/cl8t4qn9j00060gl6lxit70h1/project/3117403)](https://github.com/lutfiergunsen)|
-</td></tr>
-</table>
+</td></tr></table>
