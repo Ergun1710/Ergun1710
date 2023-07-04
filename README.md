@@ -1,6 +1,6 @@
 <h3> 💻 &nbsp;About Me </h3>
 
-- 👋 Hi, I’m @lutfiergunsen
+- 👋 Hi, I’m Lütfi Ergun ŞEN
 - 👀 I’m interested in C/C++ .
 - 🌱 I’m currently learning C/C++ .
 - 📫 How to reach me mail: ergun10487@gmail.com
