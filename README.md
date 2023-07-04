@@ -21,6 +21,9 @@
 | Push_Swap| [![ersen's 42 minitalk Score](https://badge42.vercel.app/api/v2/cl8t4qn9j00060gl6lxit70h1/project/2638751)](https://github.com/lutfiergunsen)|
 | So_long | [![ersen's 42 so_long Score](https://badge42.vercel.app/api/v2/cl8t4qn9j00060gl6lxit70h1/project/2723792)](https://github.com/lutfiergunsen)|
 | Philosophers| [![ersen's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl8t4qn9j00060gl6lxit70h1/project/2883127)](https://github.com/lutfiergunsen)|
+</td>
+
+<td style="padding:0; margin:0;">
 | ExamRank02| [![ersen's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl8t4qn9j00060gl6lxit70h1/project/2628328)](https://github.com/lutfiergunsen)|
 | ExamRank03| [![ersen's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl8t4qn9j00060gl6lxit70h1/project/2628328)](https://github.com/lutfiergunsen)|
 | NetPractice| [![ersen's 42 NetPractice Score](https://badge42.vercel.app/api/v2/cl8t4qn9j00060gl6lxit70h1/project/2993872)](https://github.com/lutfiergunsen)|
