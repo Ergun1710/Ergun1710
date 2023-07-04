@@ -13,7 +13,7 @@
   ![C](https://img.shields.io/badge/-C-111111?style=flat&logo=c)
   ![CPP](https://img.shields.io/badge/-C++-111111?style=flat&logo=cplusplus)
   ![C#](https://img.shields.io/badge/-CSharp-111111?style=flat&logo=C%20Sharp)
-  ![SQL](https://img.shields.io/badge/-MSSQL-111111?style=flat&logo=sql)
+  ![CSS](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-111111?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-111111?style=flat&logo=github)
