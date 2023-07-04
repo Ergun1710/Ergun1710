@@ -1,9 +1,14 @@
-
-<h3> 🌐 &nbsp;Social Media</h3>
+- 👋 Hi, I’m @lutfiergunsen
+- 👀 I’m interested in C/C++ .
+- 🌱 I’m currently learning C/C++ .
+- 📫 How to reach me mail: ergun10487@gmail.com
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lutfiergunsen)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ergunsen/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ergunsen17/)
+<a href="https://discordapp.com/users/351097197749862400">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
 <p align="center">
 <a href="https://profile.intra.42.fr/users/ersen"><img width="48%" src="https://badge42.vercel.app/api/v2/cl1lkdqj3000609l1klzziqu1/stats?cursusId=9&coalitionId=233" alt="ersen's 42 stats"/></a>
    <a href="https://profile.intra.42.fr/users/ersen"><img width="48%" src="https://badge42.vercel.app/api/v2/cl1lkdqj3000609l1klzziqu1/stats?cursusId=21&coalitionId=233" alt="ersen's 42 stats" /></a>
