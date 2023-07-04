@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 <p align="center">
-<a href="https://profile.intra.42.fr/users/ersen"><img width="48%" src="https://badge42.vercel.app/api/v2/cl1lkdqj3000609l1klzziqu1/stats?cursusId=9&coalitionId=233" alt="ersen's 42 stats"/></a>
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl8t4qn9j00060gl6lxit70h1/stats?cursusId=21&coalitionId=362" alt="ersen's 42 stats" /></a>
 <table  align="center">
 
 <tr style="display:flex; justify-content:space-around;"><td style="padding:0;">
