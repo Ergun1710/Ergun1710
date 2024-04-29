@@ -39,15 +39,15 @@
 
 | Project | Score | 
 | :- | :-: |
-| Libft <img width=150>|[![ersen's 42 Libft Score](https://badge42.coday.fr/api/v2/clvk51a2o3422101p456kkhoif/project/2507410)](https://github.com/lutfiergunsen)|
+| Libft <img width=150>| [![ersen's 42 Libft Score](https://badge42.coday.fr/api/v2/clvk51a2o3422101p456kkhoif/project/2507410)](https://github.com/lutfiergunsen)|
 | Born2Beroot| [![ersen's 42 Born2beroot Score](https://badge42.coday.fr/api/v2/clvk51a2o3422101p456kkhoif/project/2565437)](https://github.com/lutfiergunsen)|
-| GetNextLine| [![ersen's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl8t4qn9j00060gl6lxit70h1/project/2600162)](https://github.com/lutfiergunsen)|
-| Printf| [![ersen's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl8t4qn9j00060gl6lxit70h1/project/2600162)](https://github.com/lutfiergunsen)|
-| Mini Talk| [![ersen's 42 minitalk Score](https://badge42.vercel.app/api/v2/cl8t4qn9j00060gl6lxit70h1/project/2638751)](https://github.com/lutfiergunsen)|
-| Push_Swap| [![ersen's 42 minitalk Score](https://badge42.vercel.app/api/v2/cl8t4qn9j00060gl6lxit70h1/project/2638751)](https://github.com/lutfiergunsen)|
-| So_long | [![ersen's 42 so_long Score](https://badge42.vercel.app/api/v2/cl8t4qn9j00060gl6lxit70h1/project/2723792)](https://github.com/lutfiergunsen)|
+| GetNextLine| [![ersen's 42 get_next_line Score](https://badge42.coday.fr/api/v2/clvk51a2o3422101p456kkhoif/project/2600162)](https://github.com/Coday-meric/badge42)|
+| Printf| [![ersen's 42 ft_printf Score](https://badge42.coday.fr/api/v2/clvk51a2o3422101p456kkhoif/project/2523642)](https://github.com/Coday-meric/badge42)|
+| Mini Talk| [![ersen's 42 minitalk Score](https://badge42.coday.fr/api/v2/clvk51a2o3422101p456kkhoif/project/2638751)](https://github.com/Coday-meric/badge42)|
+| Push_Swap| [![ersen's 42 push_swap Score](https://badge42.coday.fr/api/v2/clvk51a2o3422101p456kkhoif/project/2804790)](https://github.com/Coday-meric/badge42)|
+| So_long | [![ersen's 42 so_long Score](https://badge42.coday.fr/api/v2/clvk51a2o3422101p456kkhoif/project/2723792)](https://github.com/Coday-meric/badge42)|
 | Philosophers| [![ersen's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl8t4qn9j00060gl6lxit70h1/project/2883127)](https://github.com/lutfiergunsen)|
-| ExamRank02 <img width=150>| [![ersen's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl8t4qn9j00060gl6lxit70h1/project/2628328)](https://github.com/lutfiergunsen)|
+| ExamRank02 <img width=150>| [![ersen's 42 Exam Rank 02 Score](https://badge42.coday.fr/api/v2/clvk51a2o3422101p456kkhoif/project/2628328)](https://github.com/Coday-meric/badge42)|
 | ExamRank03| [![ersen's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl8t4qn9j00060gl6lxit70h1/project/2628328)](https://github.com/lutfiergunsen)|
 | NetPractice| [![ersen's 42 NetPractice Score](https://badge42.vercel.app/api/v2/cl8t4qn9j00060gl6lxit70h1/project/2993872)](https://github.com/lutfiergunsen)|
 | cub3d| [![ersen's 42 cub3d Score](https://badge42.vercel.app/api/v2/cl8t4qn9j00060gl6lxit70h1/project/3053019)](https://github.com/lutfiergunsen)|
