@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning C/C++ .
 - 📫 How to reach me mail: ergun10487@gmail.com
 - 👍 &nbsp; Exploring new technologies and developing apps.
-- 🎓 &nbsp; Studying at ![42](https://img.shields.io/badge/-Ecole-111111?style=flat&logo=42)
+- 🎓 &nbsp; Studying at <a href="[https://discordapp.com/users/351097197749862400](https://profile.intra.42.fr/users/ersen)">![42](https://img.shields.io/badge/-Ecole-111111?style=flat&logo=42)</a>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
