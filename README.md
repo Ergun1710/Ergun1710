@@ -40,7 +40,7 @@
 | Project | Score | 
 | :- | :-: |
 | Libft <img width=150>|[![ersen's 42 Libft Score](https://badge42.coday.fr/api/v2/clvk51a2o3422101p456kkhoif/project/2507410)](https://github.com/lutfiergunsen)|
-| Born2Beroot| [![ersen's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl8t4qn9j00060gl6lxit70h1/project/2565437)](https://github.com/lutfiergunsen)|
+| Born2Beroot| [![ersen's 42 Born2beroot Score](https://badge42.coday.fr/api/v2/clvk51a2o3422101p456kkhoif/project/2565437)](https://github.com/lutfiergunsen)|
 | GetNextLine| [![ersen's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl8t4qn9j00060gl6lxit70h1/project/2600162)](https://github.com/lutfiergunsen)|
 | Printf| [![ersen's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl8t4qn9j00060gl6lxit70h1/project/2600162)](https://github.com/lutfiergunsen)|
 | Mini Talk| [![ersen's 42 minitalk Score](https://badge42.vercel.app/api/v2/cl8t4qn9j00060gl6lxit70h1/project/2638751)](https://github.com/lutfiergunsen)|
