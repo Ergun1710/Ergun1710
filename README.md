@@ -28,4 +28,4 @@
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 <p align="center">
-<a href="https://github.com/Coday-meric/badge42"><img src="https://badge42.coday.fr/api/v2/clvk51a2o3422101p456kkhoif/stats?cursusId=21&coalitionId=362" alt="ersen's 42 stats" /></a>
+<a href="[https://github.com/Coday-meric/badge42](https://profile.intra.42.fr/users/ersen)"><img src="https://badge42.coday.fr/api/v2/clvk51a2o3422101p456kkhoif/stats?cursusId=21&coalitionId=362" alt="ersen's 42 stats" /></a>
