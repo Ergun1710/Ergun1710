@@ -29,35 +29,3 @@
   </a>
 <p align="center">
 <a href="https://github.com/Coday-meric/badge42"><img src="https://badge42.coday.fr/api/v2/clvk51a2o3422101p456kkhoif/stats?cursusId=21&coalitionId=362" alt="ersen's 42 stats" /></a>
-<table  align="center">
-
-<tr style="display:flex; justify-content:space-around;"><td style="padding:0;">
-
-<table widht="100%" align="center">
-  <tr style="display:flex; justify-content:space-around; padding:0;">
-  <td style="padding:0; margin:0;">
-
-| Project | Score | 
-| :- | :-: |
-| Libft <img width=150>| [![ersen's 42 Libft Score](https://badge42.coday.fr/api/v2/clvk51a2o3422101p456kkhoif/project/2507410)](https://github.com/lutfiergunsen)|
-| Born2Beroot| [![ersen's 42 Born2beroot Score](https://badge42.coday.fr/api/v2/clvk51a2o3422101p456kkhoif/project/2565437)](https://github.com/lutfiergunsen)|
-| GetNextLine| [![ersen's 42 get_next_line Score](https://badge42.coday.fr/api/v2/clvk51a2o3422101p456kkhoif/project/2600162)](https://github.com/Coday-meric/badge42)|
-| Printf| [![ersen's 42 ft_printf Score](https://badge42.coday.fr/api/v2/clvk51a2o3422101p456kkhoif/project/2523642)](https://github.com/Coday-meric/badge42)|
-| Mini Talk| [![ersen's 42 minitalk Score](https://badge42.coday.fr/api/v2/clvk51a2o3422101p456kkhoif/project/2638751)](https://github.com/Coday-meric/badge42)|
-| Push_Swap| [![ersen's 42 push_swap Score](https://badge42.coday.fr/api/v2/clvk51a2o3422101p456kkhoif/project/2804790)](https://github.com/Coday-meric/badge42)|
-| So_long | [![ersen's 42 so_long Score](https://badge42.coday.fr/api/v2/clvk51a2o3422101p456kkhoif/project/2723792)](https://github.com/Coday-meric/badge42)|
-| Philosophers| [![ersen's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl8t4qn9j00060gl6lxit70h1/project/2883127)](https://github.com/lutfiergunsen)|
-| ExamRank02 <img width=150>| [![ersen's 42 Exam Rank 02 Score](https://badge42.coday.fr/api/v2/clvk51a2o3422101p456kkhoif/project/2628328)](https://github.com/Coday-meric/badge42)|
-| ExamRank03| [![ersen's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl8t4qn9j00060gl6lxit70h1/project/2628328)](https://github.com/lutfiergunsen)|
-| NetPractice| [![ersen's 42 NetPractice Score](https://badge42.vercel.app/api/v2/cl8t4qn9j00060gl6lxit70h1/project/2993872)](https://github.com/lutfiergunsen)|
-| cub3d| [![ersen's 42 cub3d Score](https://badge42.vercel.app/api/v2/cl8t4qn9j00060gl6lxit70h1/project/3053019)](https://github.com/lutfiergunsen)|
-| CPP Module 00| [![ersen's 42 CPP Module 00 Score](https://badge42.vercel.app/api/v2/cl8t4qn9j00060gl6lxit70h1/project/2993873)](https://github.com/lutfiergunsen)|
-| CPP Module 01| [![ersen's 42 CPP Module 01 Score](https://badge42.vercel.app/api/v2/cl8t4qn9j00060gl6lxit70h1/project/3089227)](https://github.com/lutfiergunsen)|
-| CPP Module 02| [![ersen's 42 CPP Module 02 Score](https://badge42.vercel.app/api/v2/cl8t4qn9j00060gl6lxit70h1/project/3117403)](https://github.com/lutfiergunsen)|
-| CPP Module 03 <img width=150>| [![ersen's 42 CPP Module 03 Score](https://badge42.vercel.app/api/v2/cl8t4qn9j00060gl6lxit70h1/project/3126180)](https://github.com/lutfiergunsen)|
-| CPP Module 04 <img width=150>| [![ersen's 42 Exam Rank 04 Score](https://badge42.vercel.app/api/v2/cl8t4qn9j00060gl6lxit70h1/project/3003111)](https://github.com/lutfiergunsen)|
-</td>
-  <td style="padding:0; margin:0;">
-|Project|Score| 
-| :-	|	:-:	|
-</td></tr></table>
